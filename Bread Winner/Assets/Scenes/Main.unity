@@ -379,7 +379,6 @@ MonoBehaviour:
   levelPartList:
   - {fileID: 6909629310120348803, guid: a6709bf00db2ace4486322eefb05f73f, type: 3}
   - {fileID: 6410710352096261381, guid: bd6b3180ff2cfcc48ae1af9fb21341cb, type: 3}
-  - {fileID: 2251402111737131720, guid: faf431cdb273a3c4eb2b3f9af43eaf76, type: 3}
   leadPlayer: {fileID: 6450705693266081643}
 --- !u!4 &946176475 stripped
 Transform:
@@ -909,7 +908,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 256
   moveSpeed: 8
-  jumpForce: 8
+  jumpForce: 7
   rb: {fileID: 6450705693266081645}
   playerIndex: 0
   health: 1
